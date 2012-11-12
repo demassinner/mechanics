@@ -1,0 +1,9 @@
+# @title Maven Javadoc/Sources
+# @description Ladda ner javadoc och sources
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Tue Oct 02 16:11:09 CEST 2012
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true

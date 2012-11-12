@@ -1,0 +1,8 @@
+# @title keybinding
+# @description keybinding
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Fri Nov 09 10:23:32 CET 2012
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+D T"/>\r\n<keyBinding commandId\="org.eclipse.jdt.junit.junitShortcut.debug" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+T"/>\r\n<keyBinding commandId\="org.eclipse.wst.jsdt.ui.edit.text.java.clean.up" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+C"/>\r\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.create.getter.setter" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+G"/>\r\n</org.eclipse.ui.commands>

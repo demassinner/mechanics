@@ -1,0 +1,10 @@
+# @title Maven installation
+# @description Får Eclipse att använda extern Maven installation
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Thu Sep 06 13:32:12 CEST 2012
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=C\:\\opt\\apache-maven-2.2.1
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile=C\:\\opt\\apache-maven-2.2.1\\conf\\settings.xml
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimes=C\:\\opt\\apache-maven-2.2.1
